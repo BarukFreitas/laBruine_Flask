@@ -1,15 +1,6 @@
-This was my first website created using Python Flask, very proud of it.
-
-Let's begin:
-
-You will need python installed on your machine to run this app properly.
-When you open this project on your VSCode (or your favourite IDE),
-just open the integrated terminal and navigate to "labruine_flask" using the command: cd labruine_flask;
-After that, just run the command: flask run;
-
 Esse foi meu primeiro website usando Python com Flask, sou muito orgulhoso dele.
 O projeto foi usado com uma template gratúita e eu alterei algumas informações no HTML e criei outras páginas usando do mesmo modelo.
-O backend foi desenvolvido por mim com a ajuda de um amigo que já tem experiência na área do desenvolvimento;
+O backend foi desenvolvido por mim (Baruk Freitas) e por Thiago Anízio, com a ajuda de Matheus Machado que já tem experiência na área do desenvolvimento;
 
 Vamos começar:
 
