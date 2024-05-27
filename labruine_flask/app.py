@@ -97,3 +97,5 @@ def listar_mesas_disponiveis():
 def reservas():
     import json
     return json.dumps([ob.__dict__ for ob in RESERVAS])
+
+app.run()
